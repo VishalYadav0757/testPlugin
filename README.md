@@ -5,9 +5,9 @@
 Then...
 
 ```
-import { testPluign } from 'testPlugin';
+import { teesstpluign } from 'teesstplugin';
 
-testPlugin({
+teesstplugin({
     shadow_type: 'soft',
     padding: false
 });
