@@ -11,10 +11,9 @@ testPlugin({
     shadow_type: 'soft',
     padding: false
 });
-,,,
+```
 
-
-## Options
+# Options
 
 There are 2 options:
 
