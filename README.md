@@ -1,6 +1,6 @@
 # Installation
 
-` npm i testPlugin --save `
+` npm i teesstplugin --save `
 
 Then...
 
